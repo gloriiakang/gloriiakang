@@ -1,6 +1,6 @@
 ### Oi, sou a Gloria Choi Kang! 👋
 
-Estudante de Ciência de Dados da Universidade Virtual do Estado de São Paulo (Univesp), e atualmente, estou trabalhando na RD com Desenvolvimento Backend usando a linguagem Java.
+Estudante de Ciência de Dados da Universidade Virtual do Estado de São Paulo (Univesp) e sou desenvolvedora backend Java na NTT DATA.
 
 ##
 
